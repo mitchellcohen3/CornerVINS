@@ -1,19 +1,12 @@
 %YAML:1.0
 path_dataset: /home/zyd/File/CID-SIMS/office_building/office/office_1/
-#path_dataset: /home/zyd/File/CID-SIMS/office_building/floor14/floor14_1/
-#path_dataset: /home/zyd/File/CID-SIMS/office_building/two_floors/14-13-14/
-#path_dataset: /home/zyd/File/CID-SIMS/office_building/downstairs/14-13-12/
-#path_dataset: /home/zyd/File/CID-SIMS/office_building/floor3/floor3_1/
-#path_dataset: /home/zyd/File/CID-SIMS/office_building/floor13/floor13_2/
-#path_dataset: /home/zyd/File/CID-SIMS/apartment/apartment1/apartment1_2/
-#path_dataset: /home/zyd/File/CID-SIMS/apartment/apartment2/apartment2_2/
-#path_dataset: /home/zyd/File/CID-SIMS/apartment/apartment3/apartment3_3/
 path_results: ../results/
 file_traj: test.txt
 file_time: time.txt
 
 save_traj: 1
 has_gt: 1
+is_visualize: 1
 img_start: 0
 img_end: 0
 save_figs: 0
